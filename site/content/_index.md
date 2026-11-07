@@ -1,4 +1,4 @@
 ---
 title: Welcome
 ---
-Welcome to my website.
+안녕하세요! 컴퓨터인공지능학부생 김려원의 웹사이트입니다.
