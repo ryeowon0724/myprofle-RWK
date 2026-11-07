@@ -1,25 +1,6 @@
-baseURL = "https://ryeowon0724.github.io/myprofle-RWK/"
-languageCode = "ko-KR"
-title = "Ryeowon's Dev Log"
-theme = ["github.com/ismd/hugo-theme-vng-blue"]
 
-[params]
-description = "컴퓨터인공지능학부 2학년 개인 소개 웹사이트"
-homeEventPosition = "top"
-homeToBlogText = "블로그로"
-author = "김려원"
-
-[params.giscus]
-enable = false
-
-[params.social]
-github = "https://github.com/ryeowon0724"
-telegram = "https://t.me/your_id"
 
 [module]
-[module.hugoVersion]
-extended = true
-min = "0.158.0"
-
-[[module.imports]]
-path = "github.com/ismd/hugo-theme-vng-blue"
+  [module.hugoVersion]
+    extended = true
+    min = "0.158.0"
