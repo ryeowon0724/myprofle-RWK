@@ -1,4 +1,4 @@
-baseURL = "https://ryeowon0724.github.io/"
+baseURL = "https://ryeowon0724.github.io/myprofile-RWK/"
 languageCode = "ko-KR"
 title = "Ryeowon's Dev Log"
 theme = ["github.com/ismd/hugo-theme-vng-blue"]
